@@ -1,0 +1,11 @@
+{
+  "lab_mac": {
+    "data_path": "/Volumes/matlab_share/nifti_img/3DEGIR_SAG"
+  },
+  "lab_tensor": {
+    "data_path": ""
+  },
+  "lab_sphinx": {
+    "data_path": ""
+  }
+}
