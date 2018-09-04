@@ -1,11 +1,14 @@
 {
   "lab_mac": {
-    "data_path": "/Volumes/matlab_share/nifti_img/3DEGIR_SAG"
+    "data_path": "/Volumes/matlab_share/nifti_img/3DEGIR_SAG",
+    "model_path": "~/googledrive/research/multiple_regression/all_brain/08011916"
   },
   "lab_tensor": {
-    "data_path": ""
+    "data_path": [],
+    "model_path": []
   },
   "lab_sphinx": {
-    "data_path": ""
+    "data_path": [],
+    "model_path": []
   }
 }
